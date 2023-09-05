@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @bibekmhj
-- 👀 I’m interested in coding...
-- 🌱 I’m currently learning Java and UX Design ...
-- 💞️ I’m looking to collaborate on the projects...
-- 📫 How to reach me? Send me an email...
-
-<!---
-bibekmhj/bibekmhj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi I'm a graduate in Masters in Computer Science
+I'm familiar with HTML, CSS, JAVA, JavaScript, MySQL
+Libraries & Frameworks: React, SpringBoot, Swing, AWT, Bootstrap, Tailwind CSS
+7 years Graphic Design experience
